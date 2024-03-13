@@ -42,3 +42,18 @@ Security Measures:- Encryption: Secure communication between UI and backend usin
 - Authorization: Ensure users can only access their own bookings.
 - Input Validation: Validate user inputs to prevent malicious data.
 Remember, this high-level design serves as a starting point. You can delve deeper into each component, define APIs, choose technologies, and consider deployment strategies based on your project's needs. Happy coding! 🚀🎟️
+
+🎟️ Ticket Booking System: Simplifying Event Reservations
+As part of a collaborative effort, I contributed to the development of a robust Ticket Booking System designed to streamline the process of reserving tickets for various events. Here are the key highlights of this project:
+🚀 Technology Stack:
+- Backend: Leveraged Java for its reliability and scalability.
+- Features: Implemented essential functionalities to enhance user experience.
+🎯 Key Features:
+- Train Schedule Search: Users can easily find train schedules, seat availability, and fare information.
+- Online Booking: Enabled seamless online booking of train tickets.
+- Seat Reservation: Implemented a user-friendly seat-booking feature.
+- Real-Time Updates: Integrated real-time information on train timings and availability.
+🤝 Collaboration and Project Management:
+- Utilized collaboration tools and project-based chat platforms to keep the team informed and aligned.
+- Followed the project life cycle, including initiation, planning, execution, and closing phases.
+
